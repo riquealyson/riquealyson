@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá Pessoal meu nome é Alyson Henrique 👋
 
-<!--
-**riquealyson/riquealyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com ferramentas como **Figma, Adobe XD** e metodologias como **Design Thinking, User Research, Wireframes e Prototipação**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas já Utilizadas
+- **Figma:** Criação de protótipos navegáveis de alta fidelidade.
+- **Adobe XD** 
+- **Miro** 
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alysonnascimento142@gmail.com)
